@@ -1,0 +1,13 @@
+{
+  "name": "canpix",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/canpix.php",
+  "author": "Ioan CHIRIAC",
+  "license": "LGPL",
+  "homepage": "https://github.com/ichiriac/canpix",
+  "dependencies": {
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest"
+  }
+}
